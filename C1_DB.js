@@ -1,1 +1,0 @@
-{"_id":"douban","startUrl":["https://movie.douban.com/top250?start=0&filter="],"selectors":[{"id":"name","type":"SelectorText","parentSelectors":["_root"],"selector":"span.title:nth-of-type(1)","multiple":true,"regex":"","delay":0}]}
